@@ -8,7 +8,7 @@
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
-      "resources": ["png/weread_32.ico"],
+      "resources": ["png/wechat_32.ico"],
       "shortDescription": "",
       "targets": ["msi"],
       "windows": {
