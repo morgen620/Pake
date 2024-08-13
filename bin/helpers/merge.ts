@@ -126,7 +126,7 @@ export async function mergeConfig(url: string, options: PakeAppOptions, tauriCon
     win32: {
       fileExt: '.ico',
       path: `png/${name.toLowerCase()}_256.ico`,
-      defaultIcon: 'png/icon_256.ico',
+      defaultIcon: 'png/wechat_256.ico',
       message: 'Windows icon must be .ico and 256x256px.',
     },
     linux: {
