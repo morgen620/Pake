@@ -853,7 +853,7 @@ async function checkUpdateTips() {
 
 async function handleIcon(options) {
     if (options.icon) {
-        if (options.icon.startsWith('http')) {
+        if (options.icon.startsWith('http') || options.icon.startsWith('https')) {
             return downloadIcon(options.icon);
         }
         else {
