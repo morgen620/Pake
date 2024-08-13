@@ -563,7 +563,7 @@ async function mergeConfig(url, options, tauriConf) {
         win32: {
             fileExt: '.ico',
             path: `png/${name.toLowerCase()}_256.ico`,
-            defaultIcon: 'png/icon_256.ico',
+            defaultIcon: 'png/wechat_256.ico',
             message: 'Windows icon must be .ico and 256x256px.',
         },
         linux: {
@@ -863,7 +863,7 @@ async function handleIcon(options) {
     else {
         logger.warn('✼ No icon given, default in use. For a custom icon, use --icon option.');
         const iconPath = IS_WIN
-            ? 'src-tauri/png/icon_256.ico'
+            ? 'src-tauri/png/wechat_256.ico'
             : IS_LINUX
                 ? 'src-tauri/png/icon_512.png'
                 : 'src-tauri/icons/icon.icns';
