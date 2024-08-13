@@ -50,12 +50,12 @@ const variables = {
   },
   windows: {
     configFilePath: 'src-tauri/tauri.windows.conf.json',
-    iconPath: `src-tauri/png/${process.env.NAME}_32.ico`,
+    iconPath: `src-tauri/png/wechat_32.ico`,
     defaultPath: 'src-tauri/png/wechat_32.ico',
-    hdIconPath: `src-tauri/png/${process.env.NAME}_256.ico`,
+    hdIconPath: `src-tauri/png/wechat_256.ico`,
     hdDefaultPath: 'src-tauri/png/wechat_256.ico',
-    icon: [`png/${process.env.NAME}_256.ico`, `png/${process.env.NAME}_32.ico`],
-    resources: [`png/${process.env.NAME}_32.ico`],
+    icon: [`png/wechat_256.ico`, `png/wechat_32.ico`],
+    resources: [`png/wechat_32.ico`],
   },
 };
 
