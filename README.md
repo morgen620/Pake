@@ -1,4 +1,4 @@
-<h4 align="right"><strong>English</strong> | <a href="https://github.com/tw93/Pake/blob/master/README_CN.md">简体中文</a> | <a href="https://github.com/tw93/Pake/blob/master/README_JP.md">日本語</a></h4>
+<h4 align="right"><strong>English</strong> | <a href="https://github.com/morgen620/Pake/blob/master/README_CN.md">简体中文</a> | <a href="https://github.com/morgen620/Pake/blob/master/README_JP.md">日本語</a></h4>
 <p align="center">
     <img src=https://gw.alipayobjects.com/zos/k/fa/logo-modified.png width=138/>
 </p>
@@ -9,17 +9,17 @@
     <img alt="twitter" src="https://img.shields.io/badge/follow-Tw93-red?style=flat-square&logo=Twitter"></a>
     <a href="https://t.me/+GclQS9ZnxyI2ODQ1" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/chat-telegram-blueviolet?style=flat-square&logo=Telegram"></a>
-    <a href="https://github.com/tw93/Pake/releases" target="_blank">
-    <img alt="GitHub downloads" src="https://img.shields.io/github/downloads/tw93/Pake/total.svg?style=flat-square"></a>
-    <a href="https://github.com/tw93/Pake/commits" target="_blank">
+    <a href="https://github.com/morgen620/Pake/releases" target="_blank">
+    <img alt="GitHub downloads" src="https://img.shields.io/github/downloads/morgen620/Pake/total.svg?style=flat-square"></a>
+    <a href="https://github.com/morgen620/Pake/commits" target="_blank">
     <img alt="GitHub commit" src="https://img.shields.io/github/commit-activity/m/tw93/Pake?style=flat-square"></a>
-    <a href="https://github.com/tw93/Pake/issues?q=is%3Aissue+is%3Aclosed" target="_blank">
+    <a href="https://github.com/morgen620/Pake/issues?q=is%3Aissue+is%3Aclosed" target="_blank">
     <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/tw93/Pake.svg?style=flat-square"></a>
     <a href="https://colab.research.google.com/drive/1bX345znvDZ30848xjRtpgtU8eypWwXrp?usp=sharing" target="_blank">
     <img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 </div>
 
-<div align="left">Pake supports Mac, Windows, and Linux. Check out README for <a href="#popular-packages">Popular Packages</a>, <a href="#command-line-packaging">Command-Line Packaging</a>, and <a href="#development">Customized Development</a> information. Feel free to share your suggestions in <a href=https://github.com/tw93/Pake/discussions>Discussions</a>.</div>
+<div align="left">Pake supports Mac, Windows, and Linux. Check out README for <a href="#popular-packages">Popular Packages</a>, <a href="#command-line-packaging">Command-Line Packaging</a>, and <a href="#development">Customized Development</a> information. Feel free to share your suggestions in <a href=https://github.com/morgen620/Pake/discussions>Discussions</a>.</div>
 
 ## Features
 
@@ -33,14 +33,14 @@
 <table>
     <tr>
         <td>WeRead
-            <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/WeRead.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/WeRead_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/WeRead_x86_64.deb">Linux</a>
         </td>
         <td>Twitter
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Twitter.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Twitter_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Twitter_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Twitter.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Twitter_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Twitter_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
@@ -49,14 +49,14 @@
     </tr>
     <tr>
         <td>ChatGPT
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ChatGPT.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ChatGPT_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ChatGPT_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/ChatGPT.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/ChatGPT_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/ChatGPT_x86_64.deb">Linux</a>
         </td>
         <td>Poe
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Poe.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Poe_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Poe_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Poe.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Poe_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Poe_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
@@ -65,14 +65,14 @@
     </tr>
     <tr>
       <td>YouTube Music
-            <a href="https://github.com/tw93/Pake/releases/latest/download/YouTubeMusic.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/YouTubeMusic_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/YouTubeMusic_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/YouTubeMusic.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/YouTubeMusic_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/YouTubeMusic_x86_64.deb">Linux</a>
       </td>
       <td>YouTube
-            <a href="https://github.com/tw93/Pake/releases/latest/download/YouTube.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/YouTube_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/YouTube_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/YouTube.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/YouTube_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/YouTube_x86_64.deb">Linux</a>
       </td>
     </tr>
     <tr>
@@ -81,14 +81,14 @@
     </tr>
     <tr>
         <td>LiZhi
-            <a href="https://github.com/tw93/Pake/releases/latest/download/LiZhi.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/LiZhi_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/LiZhi_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/LiZhi.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/LiZhi_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/LiZhi_x86_64.deb">Linux</a>
         </td>
         <td>ProgramMusic
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ProgramMusic.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ProgramMusic_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ProgramMusic_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/ProgramMusic.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/ProgramMusic_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/ProgramMusic_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
@@ -97,14 +97,14 @@
     </tr>
     <tr>
         <td>Qwerty
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Qwerty.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Qwerty_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Qwerty_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Qwerty.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Qwerty_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Qwerty_x86_64.deb">Linux</a>
         </td>
         <td>CodeRunner
-            <a href="https://github.com/tw93/Pake/releases/latest/download/CodeRunner.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/CodeRunner_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/CodeRunner_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/CodeRunner.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/CodeRunner_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/CodeRunner_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
@@ -113,14 +113,14 @@
     </tr>
         <tr>
         <td>Flomo
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Flomo.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Flomo_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Flomo_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Flomo.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Flomo_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/Flomo_x86_64.deb">Linux</a>
         </td>
         <td>XiaoHongShu
-            <a href="https://github.com/tw93/Pake/releases/latest/download/XiaoHongShu.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/XiaoHongShu_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/XiaoHongShu_x86_64.deb">Linux</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/XiaoHongShu.dmg">Mac</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/XiaoHongShu_x64.msi">Windows</a>
+            <a href="https://github.com/morgen620/Pake/releases/latest/download/XiaoHongShu_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
@@ -130,7 +130,7 @@
 </table>
 
 <details>
-<summary>🏂 You can download more applications from <a href="https://github.com/tw93/Pake/releases">Releases</a>. <b>Click here to expand the shortcuts reference!</b></summary>
+<summary>🏂 You can download more applications from <a href="https://github.com/morgen620/Pake/releases">Releases</a>. <b>Click here to expand the shortcuts reference!</b></summary>
 
 <br/>
 
@@ -153,7 +153,7 @@ In addition, double-click the title bar to switch to full-screen mode. For Mac u
 
 ## Before starting
 
-1. **For beginners**: Play with Popular Packages to find out Pake's capabilities, or try to pack your application with [GitHub Actions](<https://github.com/tw93/Pake/wiki/Online-Compilation-(used-by-ordinary-users)>). Don't hesitate to reach for assistance at [Discussion](https://github.com/tw93/Pake/discussions)!
+1. **For beginners**: Play with Popular Packages to find out Pake's capabilities, or try to pack your application with [GitHub Actions](<https://github.com/morgen620/Pake/wiki/Online-Compilation-(used-by-ordinary-users)>). Don't hesitate to reach for assistance at [Discussion](https://github.com/morgen620/Pake/discussions)!
 2. **For developers**: “Command-Line Packaging” supports macOS fully. For Windows/Linux users, it requires some tinkering. [Configure your environment](https://tauri.app/v1/guides/getting-started/prerequisites) before getting started.
 3. **For hackers**: For people who are good at both front-end development and Rust, how about customizing your apps' function more with the following [Customized Development](#development)?
 
@@ -174,7 +174,7 @@ pake url [OPTIONS]...
 pake https://weekly.tw93.fun --name Weekly --hide-title-bar
 ```
 
-If you are new to the command line, you can compile packages online with _GitHub Actions_. See the [Tutorial](<https://github.com/tw93/Pake/wiki/Online-Compilation-(used-by-ordinary-users)>) for more information.
+If you are new to the command line, you can compile packages online with _GitHub Actions_. See the [Tutorial](<https://github.com/morgen620/Pake/wiki/Online-Compilation-(used-by-ordinary-users)>) for more information.
 
 ## Development
 
@@ -195,10 +195,10 @@ npm run build
 
 ## Advanced Usage
 
-1. You can refer to the [codebase structure](https://github.com/tw93/Pake/wiki/Description-of-Pake's-code-structure) before working on Pake, which will help you much in development.
+1. You can refer to the [codebase structure](https://github.com/morgen620/Pake/wiki/Description-of-Pake's-code-structure) before working on Pake, which will help you much in development.
 2. Modify the `url` and `productName` fields in the `pake.json` file under the src-tauri directory, the "domain" field in the `tauri.config.json` file needs to be modified synchronously, as well as the `icon` and `identifier` fields in the `tauri.xxx.conf.json` file. You can select an `icon` from the `icons` directory or download one from [macOSicons](https://macosicons.com/#/) to match your product needs.
 3. For configurations on window properties, you can modify the `pake.json` file to change the value of `width`, `height`, `fullscreen` (or not), `resizable` (or not) of the `windows` property. To adapt to the immersive header on Mac, change `hideTitleBar` to `true`, look for the `Header` element, and add the `padding-top` property.
-4. For advanced usages such as style rewriting, advertisement removal, JS injection, container message communication, and user-defined shortcut keys, see [Advanced Usage of Pake](https://github.com/tw93/Pake/wiki/Advanced-Usage-of-Pake).
+4. For advanced usages such as style rewriting, advertisement removal, JS injection, container message communication, and user-defined shortcut keys, see [Advanced Usage of Pake](https://github.com/morgen620/Pake/wiki/Advanced-Usage-of-Pake).
 
 ## Developers
 
